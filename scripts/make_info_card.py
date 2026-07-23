@@ -33,7 +33,7 @@ STAGGER = 0.09   # seconds between each line's fade-in
 DUR = 0.35
 
 NAME = "sujan-18"
-TITLEBAR_LABEL = "avi@github: ~"
+TITLEBAR_LABEL = "sujan@github: ~"
 
 # (kind, text) where kind selects styling
 # kind: "name" | "sep" | "section" | "line"

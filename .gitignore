@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+# raw source photo + intermediate frame — keep only the generated SVG public
+source-photo.jpg
+source-prepped.png
